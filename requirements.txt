@@ -1,6 +1,7 @@
-requests
-Flask
-Flask-Cors
-google-generativeai
-google-auth
-cloudinary
+
+
+
+
+
+
+# uv add cloudinary google-auth google-generativeai Flask-Cors Flask requests
